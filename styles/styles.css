@@ -166,6 +166,43 @@ ul, li{
     gap: 20px;
 }
 
+/* ////// */
+
+.deal{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    width: 80%;
+    margin: 100px 100px;
+    padding: 50px 80px 80px 50px;
+    text-align: center;
+}
+.deal-section{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.deal-text{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.input-mail{
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 40px;
+    border: none;
+}
+
+.button{
+    border-radius: 8px;
+    background: #E55473;
+    width: 150px;
+    height: 40px;
+    color: #FFF;
+    border: 0;
+}
+
 /* footer section styles */
 
 .footer{
