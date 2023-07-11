@@ -62,7 +62,8 @@ body{
 .main-items{
     display: flex;
     gap: 20px;
-    border: 0;   
+    border: 0;
+    margin: 1px 70px;   
 }
 
 .main-section .main-items > .item:nth-child(1){
@@ -98,11 +99,21 @@ ul, li{
 
 }
 .ul-text1{
-    margin-left: 100px;
+    margin-left: 160px;
 }
 .ul-text2{
-    margin-left: 140px;
+    margin-left: 190px;
 }
 .ul-text3{
-    margin-left: 200px;
+    margin-left: 240px;
+}
+
+/* mid section style */
+.mid-section{
+    display: flex;
+    border-radius: 8px;
+    background: #2727270d;
+    margin: 85px 80px 200px ;
+    padding:50px 25px;
+    justify-content: space-evenly;   
 }
