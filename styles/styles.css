@@ -117,3 +117,28 @@ ul, li{
     padding:50px 25px;
     justify-content: space-evenly;   
 }
+
+/* offer section styles */
+
+.offer{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    background: #e554730d;
+    padding: 30px 30px 30px 30px;
+}
+
+.offer-content{
+    text-align: center;
+}
+.offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.offer-text{
+    color: #27272799;
+    font-size: 18px;
+    font-weight: 400;
+}
